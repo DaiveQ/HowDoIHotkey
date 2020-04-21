@@ -1,2 +1,2 @@
-# How-Do-I-Hotkey
-A website designed that teaches people basic hotkeys. 
+# How Do I Hotkey?
+Learn the essential hotkeys for your computer workflow
