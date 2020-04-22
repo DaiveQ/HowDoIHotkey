@@ -11,6 +11,10 @@ TODO: Add more hotkeys
 **Dragging to edge**: Split screen (Not a hotkey, but worth knowing)\
 **Win + Period**: Emoji menu (Use responsibly) 
 
+#### Windows Navigation
+**Alt + Tab**: Cycle through open windows
+**Alt + Shift + Tab**: Cycle through open windows backwards 
+
 #### Files
 **Ctrl + S**: Save file\
 **Ctrl + N**: New file
