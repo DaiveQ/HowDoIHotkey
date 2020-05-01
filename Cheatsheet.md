@@ -1,6 +1,7 @@
-### Notes
-Caret is the flashing cursor where you type.  
-All shortcuts written with Windows 10 in mind. They are more or less the same in Mac and Linux.  
+### Notes  
+Cheatsheet is for internal use rather than for the end user.  
+A cheatsheet for the end user may be made later and this file will have its name
+changed to avoid confusion
 
 TODO: Figure out ordering of hotkeys (currently vague groupings + most to least useful)  
 TODO: Add more hotkeys
