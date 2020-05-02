@@ -1,6 +1,6 @@
 # What are they?
-Hotkeys, also known as shortcuts, are combinations of keys that can make doing
-certain things on your keyboard quicker and easier.
+Hotkeys, also known as shortcuts, are combinations of keys that can make performing
+certain basic tasks quicker and easier.
 
 ### Scenario: You want to copy all of the text on a document and paste it somewhere else
 #### Without Hotkeys:
