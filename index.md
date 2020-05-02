@@ -6,9 +6,9 @@ certain basic tasks quicker and easier.
 #### Without Hotkeys:
 
 1. Go to top of page  
-2. Press and hold mouse from beginning of text (begin selecting/highlighting text)
-3. Drag mouse down to bottom of screen to highlight everything  
-4. Wait for the page to scroll to bottom if the text goes off the screen (to highlight everything)
+2. Press and hold the mouse button from beginning of text (begin selecting/highlighting text)
+3. Drag mouse down to bottom of screen   
+4. Wait for the page to finish scrolling to bottom of the text (to highlight everything)
 5. Right click mouse (open the context menu)  
 6. Press copy (copy all text)  
 7. Go to where you want to paste the text  
