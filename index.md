@@ -1,5 +1,5 @@
 # What are they?
-Hotkeys, also known as shortcuts, are combinations of keys that can make performing
+Hotkeys, also known as keyboard shortcuts, are combinations of keys that can make performing
 certain basic tasks quicker and easier.
 
 ### Scenario: You want to copy all of the text on a document and paste it somewhere else
@@ -25,3 +25,20 @@ certain basic tasks quicker and easier.
 4. Press Control and V (paste the copied text)
 
 **Task completed in 4 steps**
+
+### How do I use Hotkeys
+Hotkeys are typically a combination of two or more keys.  
+This includes:
+
+#### A modifier key
+
+
+#### (Optional) Additional modifier keys
+
+# What do I need to know?
+Firstly, the hotkeys on this page are designed for use on Windows. These will
+likely be the same on Mac OS, but with a different modifier key; Typically this
+is Command (&#8984;) instead of Control (Ctrl). In the future, I may show the
+Mac OS version of hotkeys along side the Windows one.
+
+Hotkeys are a combination of one or more modifier
