@@ -1,4 +1,4 @@
-# What are they?
+# What are hotkeys?
 Hotkeys, also known as keyboard shortcuts, are combinations of keys that can make performing
 certain basic tasks quicker and easier.
 
@@ -26,19 +26,18 @@ certain basic tasks quicker and easier.
 
 **Task completed in 4 steps**
 
-### How do I use Hotkeys
+### How do I use hotkeys?
 Hotkeys are typically a combination of two or more keys.  
-This includes:
+This consists of:
 
 #### A modifier key
 
-
 #### (Optional) Additional modifier keys
 
-# What do I need to know?
-Firstly, the hotkeys on this page are designed for use on Windows. These will
-likely be the same on Mac OS, but with a different modifier key; Typically this
-is Command (&#8984;) instead of Control (Ctrl). In the future, I may show the
-Mac OS version of hotkeys along side the Windows one.
+#### A standard key
 
-Hotkeys are a combination of one or more modifier
+# What if I'm on Mac OS?
+The hotkeys on this page are designed for use on Windows. These will likely
+be the same on Mac OS, but with a different modifier key; Typically this
+means using Command (&#8984;) instead of Control (Ctrl). Future versions of this
+website may include Mac OS's version of the hotkey along side Windows'.
