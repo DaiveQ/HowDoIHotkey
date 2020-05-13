@@ -31,10 +31,12 @@ Hotkeys are typically a combination of two or more keys.
 This consists of:
 
 #### A modifier key
+Note: If a key is on both sides, you can choose either to press.
 
 #### (Optional) Additional modifier keys
 
-#### A standard key
+#### A standard key (or some speical ones)
+
 
 # What if I'm on Mac OS?
 The hotkeys on this page are designed for use on Windows. These will likely

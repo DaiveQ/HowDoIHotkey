@@ -31,8 +31,9 @@ TODO: Add more hotkeys
 **Ctrl + Delete**: Delete word after the caret  
 
 #### Selection
-**Ctrl + Shift + Arrow Key**: Continuously highlight text  
+**Shift + Arrow Key**: Continuously highlight text  
 **Ctrl + A**: Select all text
+**Double Click**: Select entire word
 
 #### Text Movement
 **Ctrl + Arrow Key**: Move caret one word in any direction (works with Shift to highlight)
