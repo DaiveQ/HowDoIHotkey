@@ -15,6 +15,7 @@ TODO: Add more hotkeys
 #### Windows Navigation
 **Alt + Tab**: Cycle through open windows  
 **Alt + Shift + Tab**: Cycle through open windows backwards
+**Ctrl + Alt + Tab**: Cycle through open windows (do not need to hold)
 
 #### Files
 **Ctrl + S**: Save file  
