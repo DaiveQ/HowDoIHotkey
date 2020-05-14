@@ -1,7 +1,7 @@
 # What are hotkeys?
 Hotkeys, also known as keyboard shortcuts, are combinations of keys that can make performing
 certain basic tasks quicker and easier. If you don't need an introdution, you can
-[skip to the hotkeys](#im-ready-for-the-hotkeys)
+[skip to the hotkeys](#im-ready-for-the-hotkeys). Otherwise, continue reading for an introduction.
 
 ### Scenario: You want to copy all of the text on a document and paste it somewhere else
 #### Without Hotkeys:
