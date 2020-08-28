@@ -212,5 +212,5 @@ This hotkey opens a screenshot menu with multiple options to screenshot (play ar
 
 ### Issues or Questions?
 If you have any issues or questions, create an issue on GitHub or email me at
-<KaranveerPublic+HowDoIHotkey@gmail.com>. You can also email me if this helped
+[KaranveerPublic+HowDoIHotkey@gmail.com](KaranveerPublic+HowDoIHotkey@gmail.com). You can also email me if this helped
 you even a little as it would honestly make my day.
