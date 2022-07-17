@@ -209,7 +209,3 @@ This hotkey opens a screenshot menu with multiple options to screenshot (play ar
 **Tip to remember:** **S** stands for "Screenshot." **Shift** is added to this hotkey because
 **Win + S** is already taken by opening the start menu.
 ![](/KeyboardImages/screenshot_menu.svg)
-
-### Issues or Questions?
-If you have any issues or questions, create an issue on GitHub or email me at
-[KaranveerPublic+Hotkey@gmail.com](mailto:KaranveerPublic+Hotkey@gmail.com).
